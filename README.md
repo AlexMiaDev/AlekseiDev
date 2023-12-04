@@ -1,3 +1,3 @@
 # AlekseiDev.github.io
 site project for me (not ready)
-https://qaleksei.github.io/AlekseiDev.github.io/
+https://alexmiadev.github.io/AlekseiDev.github.io/
