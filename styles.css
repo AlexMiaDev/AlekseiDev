@@ -12,6 +12,7 @@ body {
   background: linear-gradient(357deg, rgba(17,66,17,1) 0%, rgba(81,121,118,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#114211",endColorstr="#517976",GradientType=1);
   z-index: 10;
+  font-size: 1vw;
 }
 
 #animation-bg {
@@ -46,8 +47,6 @@ nav {
   margin-left: 20%;
   margin-right: 10%;
   font-display:inherit;
-
-
 }
 
 
