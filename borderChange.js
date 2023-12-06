@@ -1,7 +1,7 @@
 const borderChange = document.getElementById('MyPhoto')
 
 borderChange.addEventListener('mouseenter', () => {
-    borderChange.style.border = '5px solid #f4cab1'; 
+    borderChange.style.border = '5px solid #c7fae8'; 
 })
 
 borderChange.addEventListener('mouseout', () =>{
