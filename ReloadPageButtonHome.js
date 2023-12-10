@@ -1,3 +1,3 @@
     document.getElementById('homeButton').addEventListener('click', function() {
-        window.location.reload();
+        window.location.href = "index.html";
     });
