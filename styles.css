@@ -12,24 +12,23 @@ body {
   background: linear-gradient(357deg, rgba(17,66,17,1) 0%, rgba(81,121,118,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#114211",endColorstr="#517976",GradientType=1);
   z-index: 10;
-}
-
-.USDtoEuro {
-  position: absolute;
+  font-size: 1vw;
 }
 
 #animation-bg {
   display:flex;
-  position:absolute; 
+  position:fixed; 
   z-index: 0; 
-  top: 0px; 
-  left: 0px; 
+  top: 0px;  
+  left: 0px;  
   width: 100%;                       
   height: 900px;
 }
 
 
 nav {
+  width: center;
+  height: center;
   padding-top: 30px;
 }
 
@@ -38,14 +37,16 @@ nav {
 }
 
 #aboutMe {
-  font-size: 25px;
+  font-size: 1.5vw;
   color: #c7fae8;
-  position: relative;
+  position:relative;
   margin-block-start: -5em;
   margin-block-end: 2em;
   margin-inline-start: 300px;
   margin-inline-end: 0px;
-  
+  margin-left: 20%;
+  margin-right: 10%;
+  font-display:inherit;
 }
 
 
