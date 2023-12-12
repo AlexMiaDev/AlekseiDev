@@ -267,3 +267,12 @@ footer {
 /* Button settings end */
 
 
+/* Foote styles */
+
+footer {
+  width: 98%;
+  float: left;
+  padding: 1%;
+  background-color: aquamarine;
+  
+}
